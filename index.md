@@ -1,5 +1,5 @@
 # Hey I'm Karon
- !(https://github.com/KaronLan/CSE110/blob/main/images/k1luo.jpg)
+ ![](https://github.com/KaronLan/CSE110/blob/main/images/k1luo.jpg)
  
  I am a computer engineering undergraduate student at University of California, San Diego.
 
@@ -27,10 +27,10 @@
  4. [Rebecca](https://www.youtube.com/watch?v=4Nhg90BD3N4)
   
 ### To do list for this year
- -[]Become a Nail Artist
- -[x]Paint my friend's nail
- -[]Crochet
- -[]3D print a shark for my best friend's last year's B-day.
+ - [ ] Become a Nail Artist
+ - [x] Paint my friend's nail
+ - [ ] Crochet
+ - [ ] 3D print a shark for my best friend's last year's B-day.
 
  Now that I am living with a cat, it is finally a chanse to show off my friend's cat, so here you go:
  [Cat Page](cat.md).
