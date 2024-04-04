@@ -11,13 +11,13 @@
  I am  also a member in the IEEE robocup software team. 
  > Our robots are going to compete in Germany this April. -- A lead who loves to call people in the middle of the night...
 
-### Skills
+### Some tools I will be using this quarter
  + Java
  + Matlab
  + Python
- + HTML
- + Markdown?
- + Git?
+ + HTML, JavaScript, CSS
+ + Markdown
+ + GitHub
 
 ### Interest
  I am a huge fan of French and German musicals, and here are a few of my favorites:
@@ -34,6 +34,13 @@
 
  Now that I am living with a cat, it is finally a chanse to show off my friend's cat, so here you go:
  [Cat Page](cat.md).
+ And here is some funny code I have seen on stackoverflow
+ `while (!dead){`
+    `eat();
+    `\\sleep();
+    `study();
+    `code();
+    `}`
 
 
 
