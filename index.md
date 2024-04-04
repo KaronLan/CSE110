@@ -4,7 +4,7 @@
  I am a computer engineering undergraduate student at University of California, San Diego.\
 
 ## About me
- [I'm Karon Luo, a Computer Engineering student at UCSD, class of 2025. I am interested in computer architecture and software engineering. ](images/k1luo.jpg)\
+ [I'm Karon Luo, a Computer Engineering student at UCSD, class of 2025. I am interested in computer architecture and software engineering. ](/images/k1luo.jpg)\
  
  This quarter, I am learning about Software Engineering, Computer Architecture, Digital Design, and Linear Control System, and I am a tutor for CSE 29: Introduction to Computer Systems and Software Tools. 
 
