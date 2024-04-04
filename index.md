@@ -35,12 +35,12 @@
  Now that I am living with a cat, it is finally a chanse to show off my friend's cat, so here you go:
  [Cat Page](cat.md).
  And here is some funny code I have seen on stackoverflow
- `while (!dead){`
-    `eat();
-    `\\sleep();
-    `study();
-    `code();
-    `}`
+ `while (!dead){
+    eat();
+    \\sleep();
+    study();
+    code();
+    }`
 
 
 
