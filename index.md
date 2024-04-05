@@ -1,5 +1,5 @@
 # Hey I'm Karon
- (![Cherry blossoms in Seattle, 21st Avenue](https://github.com/KaronLan/CSE110/blob/main/images/Cherry%20Blossoms.jpg))
+ ![Cherry blossoms in Seattle, 21st Avenue](/images/Cherry%20Blossoms.jpg)
  
  I am a computer engineering undergraduate student at University of California, San Diego.
 
