@@ -1,7 +1,7 @@
 # Hey I'm Karon
  ![Cherry blossoms in Seattle, 21st Avenue](/images/Cherry%20Blossoms.jpg)
  
- I am a computer engineering undergraduate student at University of California, San Diego.
+ I am a **computer engineering** undergraduate student at _University of California, San Diego_.
 
 ## About me
  [I'm Karon Luo, a Computer Engineering student at UCSD, class of 2025. I am interested in computer architecture and software engineering. ](/images/k1luo.jpg)
@@ -27,20 +27,20 @@
  4. [Rebecca](https://www.youtube.com/watch?v=4Nhg90BD3N4)
   
 ### To do list for this year
- - [ ] Become a Nail Artist
- - [x] Paint my friend's nail
- - [ ] Crochet
- - [ ] 3D print a shark for my best friend's last year's B-day.
+ - [x] ~~Become a Nail Artist~~ Paint my friend's nail
+ - [x]  Become a ~~good~~ tutor
+ - [ ]  Crochet
+ - [ ]  3D print a shark for my best friend's last year's B-day.
 
  Now that I am living with a cat, it is finally a chanse to show off my friend's cat, so here you go:\
  [Cat Page](cat.md).\
  And here is some funny code I have seen on stackoverflow:\
- `while (!dead){
-    eat();
-    \\sleep();
-    study();
-    code();
-    }`
+ `while (!dead){`
+   `  eat();`
+   `  \\sleep();`
+   `  study();`
+   `  code();`
+ `}`
 
 
 
