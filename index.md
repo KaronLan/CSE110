@@ -1,5 +1,6 @@
 # Hey I'm Karon
- ![Cherry blossoms in Seattle, 21st Avenue](/images/Cherry%20Blossoms.jpg)
+ ![Cherry blossoms in Seattle, 21st Avenue](https://github.com/KaronLan/CSE110/blob/main/images/Cherry%20Blossoms.jpg)
+ ![Screen shot of lab report week 0](https://github.com/KaronLan/cse15l-lab-reports/blob/main/image/lab%200.png)
  
  I am a **computer engineering** undergraduate student at _University of California, San Diego_.
 
@@ -35,12 +36,12 @@
  Now that I am living with a cat, it is finally a chanse to show off my friend's cat, so here you go:\
  [Cat Page](cat.md).\
  And here is some funny code I have seen on stackoverflow:\
- `while (!dead){`
-   `  eat();`
-   `  \\sleep();`
-   `  study();`
-   `  code();`
- `}`
+ `while (!dead){
+     eat();
+     \\sleep();
+     study();
+     code();
+  }`
 
 
 
